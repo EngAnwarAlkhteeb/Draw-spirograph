@@ -20,7 +20,8 @@ The script utilizes the Turtle module to draw colorful spirographs on the screen
 
 ## Example
 
-![Random Spirograph](example.png)
+
+[![Random Spirograph](https://github.com/EngAnwarAlkhteeb/Draw-spirograph/blob/main/Spirograph.png)]
 
 ## Code
 
